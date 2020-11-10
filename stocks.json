@@ -1,0 +1,25 @@
+{
+  "stocksDTO": [
+    {
+      "name": "BRN",
+      "price": 0.3,
+      "image": "",
+      "sentimentScore": 0.5,
+      "trend": 0
+    },
+    {
+      "name": "DOU",
+      "price": 2.34,
+      "image": "",
+      "sentimentScore": 0.5,
+      "trend": 1
+    },
+    {
+      "name": "ZIP",
+      "price": 6.9,
+      "image": "",
+      "sentimentScore": 0.5,
+      "trend": -1
+    }
+  ]
+}
