@@ -1,5 +1,4 @@
-{
-  "stocksDTO": [
+[
     {
       "name": "BRN",
       "price": 0.3,
@@ -22,4 +21,3 @@
       "trend": -1
     }
   ]
-}
