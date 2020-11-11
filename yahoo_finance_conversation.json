@@ -1,0 +1,821 @@
+{
+	"userActivityNotification": {},
+	"total": {
+		"count": 280339
+	},
+	"sentiments": [],
+	"canvassMessages": [{
+		"contextId": "finmb_24937",
+		"messageId": "23beba34-4e75-4259-b407-b8570f0c8ce9",
+		"namespace": "yahoo_finance",
+		"meta": {
+			"type": "TEXT",
+			"author": {
+				"guid": "W74M2LI4QCT7YMOGYW2BHOYZNQ",
+				"userType": "YAHOO_USER",
+				"nickname": "sapphire",
+				"image": {
+					"url": "https://s.yimg.com/gq/1722/38837682003_813e41_o.jpg",
+					"height": 100,
+					"width": 100
+				},
+				"userCategory": "REGULAR_USER"
+			},
+			"createdAt": 1605070264,
+			"updatedAt": 1605070264,
+			"contextInfo": {
+				"url": "https://finance.yahoo.com/quote/AAPL/community?p=AAPL&.tsrc=fin-srch%3Fbcmt%3D1&messageId=fbc5538f-4461-417d-84c2-de57dae265f0&guce_referrer=aHR0cHM6Ly9sb2dpbi55YWhvby5jb20v&guce_referrer_sig=AQAAABer4Qs6g86Jz9y7wyKcROmxSA1rVy6dLDhE0x-MpoN_zzOE6kgLjBkJrGs7iY_6oj1PJApGAi-A5tfV6RU7jXijxNNV3lHs6Wo0uUGMdn9lVX_RfbgIXd1EYJkCLvWpY3myY_aL9j14Nc_dYjh8fdOAEYAfZ3ABp1JkwqKZ7-_O",
+				"displayText": "$AAPL conversation"
+			},
+			"visibility": "PUBLIC",
+			"locale": {
+				"region": "US",
+				"lang": "en-US"
+			},
+			"mentions": [],
+			"messageEntity": "COMMENT"
+		},
+		"details": {
+			"userText": "After midterms 2022, when republicans retake the house because Biden's policies will cause that, impeachment proceeding will start, from the hunter0biden Big0=(Guy payoffs from foreign entities while dad was in office. Also, Biden tax returns are not accurate, they dot reflect the muliti-million$ homes that he owns, how can he own them on his salary?"
+		},
+		"tags": [],
+		"userLabels": [],
+		"reactionStats": {
+			"upVoteCount": 2,
+			"downVoteCount": 0,
+			"abuseVoteCount": 0,
+			"replyCount": 0
+		},
+		"lastActivity": {
+			"activityAt": 1605070264,
+			"activityAuthor": {
+				"guid": "W74M2LI4QCT7YMOGYW2BHOYZNQ",
+				"userType": "YAHOO_USER",
+				"nickname": "sapphire",
+				"image": {
+					"url": "https://s.yimg.com/gq/1722/38837682003_813e41_o.jpg",
+					"height": 100,
+					"width": 100
+				},
+				"userCategory": "REGULAR_USER"
+			}
+		},
+		"userReaction": {
+			"guid": "W74M2LI4QCT7YMOGYW2BHOYZNQ",
+			"voteType": "UP",
+			"nickname": "sapphire",
+			"image": {
+				"url": "https://s.yimg.com/gq/1722/38837682003_813e41_o.jpg",
+				"height": 100,
+				"width": 100
+			},
+			"followee": false
+		},
+		"index": "v=1:s=time:t=1605070821:off=1"
+	}, {
+		"contextId": "finmb_24937",
+		"messageId": "fbc5538f-4461-417d-84c2-de57dae265f0",
+		"namespace": "yahoo_finance",
+		"meta": {
+			"type": "TEXT",
+			"author": {
+				"guid": "KL5H4ODFEG2AXB57QMOO6IQNH4",
+				"userType": "YAHOO_USER",
+				"nickname": "Nathan",
+				"image": {
+					"url": "https://s.yimg.com/gq/1795/38837677543_8720c8_o.jpg",
+					"height": 100,
+					"width": 100
+				},
+				"userCategory": "REGULAR_USER"
+			},
+			"createdAt": 1605069957,
+			"updatedAt": 1605069957,
+			"contextInfo": {
+				"url": "https://finance.yahoo.com/quote/AAPL/community?p=AAPL&.tsrc=fin-srch",
+				"displayText": "$AAPL conversation"
+			},
+			"visibility": "PUBLIC",
+			"locale": {
+				"region": "US",
+				"lang": "en-US"
+			},
+			"mentions": [],
+			"messageEntity": "COMMENT"
+		},
+		"details": {
+			"userText": "Biden said way worse things than Trump, took dirty money and built cages inTexas and threw children in the cages and people voted for him.\nSick world."
+		},
+		"tags": [],
+		"userLabels": [],
+		"reactionStats": {
+			"upVoteCount": 1,
+			"downVoteCount": 0,
+			"abuseVoteCount": 1,
+			"replyCount": 0
+		},
+		"lastActivity": {
+			"activityAt": 1605069957,
+			"activityAuthor": {
+				"guid": "KL5H4ODFEG2AXB57QMOO6IQNH4",
+				"userType": "YAHOO_USER",
+				"nickname": "Nathan",
+				"image": {
+					"url": "https://s.yimg.com/gq/1795/38837677543_8720c8_o.jpg",
+					"height": 100,
+					"width": 100
+				},
+				"userCategory": "REGULAR_USER"
+			}
+		},
+		"userReaction": {
+			"guid": "W74M2LI4QCT7YMOGYW2BHOYZNQ",
+			"voteType": "UP",
+			"nickname": "sapphire",
+			"image": {
+				"url": "https://s.yimg.com/gq/1722/38837682003_813e41_o.jpg",
+				"height": 100,
+				"width": 100
+			},
+			"followee": false
+		},
+		"index": "v=1:s=time:t=1605070821:off=2"
+	}, {
+		"contextId": "finmb_24937",
+		"messageId": "d940f3bb-b73f-4086-94b0-dacff0fbf4d9",
+		"namespace": "yahoo_finance",
+		"meta": {
+			"type": "TEXT",
+			"author": {
+				"guid": "IXGWQZ25INJZSRSRTPCEOEOJVI",
+				"userType": "YAHOO_USER",
+				"nickname": "Mike",
+				"image": {
+					"url": "https://s.yimg.com/gq/1766/40147152206_4cd16c_o.jpg",
+					"height": 100,
+					"width": 100
+				},
+				"userCategory": "REGULAR_USER"
+			},
+			"createdAt": 1605068649,
+			"updatedAt": 1605068649,
+			"contextInfo": {
+				"url": "https://finance.yahoo.com/quote/AAPL/community/",
+				"displayText": "$AAPL conversation"
+			},
+			"visibility": "PUBLIC",
+			"locale": {
+				"region": "US",
+				"lang": "en-US"
+			},
+			"mentions": [],
+			"messageEntity": "COMMENT"
+		},
+		"details": {
+			"userText": "When is Apple going to make its move forward? Lots of chatter out there yet nothing is happening! \n\nI have the right to ask that question when I’m talking about the worlds BEST company.\n\nWell................?"
+		},
+		"tags": [],
+		"userLabels": ["BULLISH"],
+		"reactionStats": {
+			"upVoteCount": 1,
+			"downVoteCount": 1,
+			"abuseVoteCount": 0,
+			"replyCount": 0
+		},
+		"lastActivity": {
+			"activityAt": 1605068649,
+			"activityAuthor": {
+				"guid": "IXGWQZ25INJZSRSRTPCEOEOJVI",
+				"userType": "YAHOO_USER",
+				"nickname": "Mike",
+				"image": {
+					"url": "https://s.yimg.com/gq/1766/40147152206_4cd16c_o.jpg",
+					"height": 100,
+					"width": 100
+				},
+				"userCategory": "REGULAR_USER"
+			}
+		},
+		"userReaction": {
+			"guid": "IXGWQZ25INJZSRSRTPCEOEOJVI",
+			"voteType": "DOWN",
+			"nickname": "Mike",
+			"image": {
+				"url": "https://s.yimg.com/gq/1766/40147152206_4cd16c_o.jpg",
+				"height": 100,
+				"width": 100
+			},
+			"followee": false
+		},
+		"index": "v=1:s=time:t=1605070821:off=3"
+	}, {
+		"contextId": "finmb_24937",
+		"messageId": "1c63c1d6-bc97-4763-b276-d24e41a92e98",
+		"namespace": "yahoo_finance",
+		"meta": {
+			"type": "TEXT",
+			"author": {
+				"guid": "PGNVNPRHFTMKXDKYIQYFA5MD3Q",
+				"userType": "YAHOO_USER",
+				"nickname": "Jimmy",
+				"image": {
+					"url": "https://s.yimg.com/gq/1829/40147149656_1551d1_o.jpg",
+					"height": 100,
+					"width": 100
+				},
+				"userCategory": "REGULAR_USER"
+			},
+			"createdAt": 1605068537,
+			"updatedAt": 1605068537,
+			"contextInfo": {
+				"url": "http://finance.yahoo.com/quote/AAPL/community",
+				"displayText": "Apple Inc."
+			},
+			"visibility": "PUBLIC",
+			"locale": {
+				"region": "US",
+				"lang": "en-US"
+			},
+			"mentions": [],
+			"messageEntity": "COMMENT"
+		},
+		"details": {
+			"userText": "tomorrow  117 to 118 \nThursday Friday 120 122"
+		},
+		"tags": [],
+		"userLabels": [],
+		"reactionStats": {
+			"upVoteCount": 1,
+			"downVoteCount": 2,
+			"abuseVoteCount": 0,
+			"replyCount": 0
+		},
+		"lastActivity": {
+			"activityAt": 1605068537,
+			"activityAuthor": {
+				"guid": "PGNVNPRHFTMKXDKYIQYFA5MD3Q",
+				"userType": "YAHOO_USER",
+				"nickname": "Jimmy",
+				"image": {
+					"url": "https://s.yimg.com/gq/1829/40147149656_1551d1_o.jpg",
+					"height": 100,
+					"width": 100
+				},
+				"userCategory": "REGULAR_USER"
+			}
+		},
+		"userReaction": {
+			"guid": "SGXDPS6X4BK25PUZ4IO6CZ32YE",
+			"voteType": "UP",
+			"nickname": "Vik",
+			"image": {
+				"url": "https://s.yimg.com/gq/1834/38837685183_90ceda_o.jpg",
+				"height": 100,
+				"width": 100
+			},
+			"followee": false
+		},
+		"index": "v=1:s=time:t=1605070821:off=4"
+	}, {
+		"contextId": "finmb_24937",
+		"messageId": "888faf91-d394-4acd-95f5-6d0015f5f2d8",
+		"namespace": "yahoo_finance",
+		"meta": {
+			"type": "TEXT",
+			"author": {
+				"guid": "4T3BNZ5LVCTELG6DVIJJ7ZDO44",
+				"userType": "YAHOO_USER",
+				"nickname": "Ddot",
+				"image": {
+					"url": "https://s.yimg.com/gq/1807/29332391609_1e44be_o.jpg",
+					"height": 100,
+					"width": 100
+				},
+				"userCategory": "REGULAR_USER"
+			},
+			"createdAt": 1605067471,
+			"updatedAt": 1605067471,
+			"contextInfo": {},
+			"visibility": "PUBLIC",
+			"locale": {
+				"region": "US",
+				"lang": "en-US"
+			},
+			"mentions": [],
+			"messageEntity": "COMMENT"
+		},
+		"details": {
+			"userText": "Only two choices for Trump here: concede or surrender Jan 20"
+		},
+		"tags": [],
+		"userLabels": [],
+		"reactionStats": {
+			"upVoteCount": 5,
+			"downVoteCount": 2,
+			"abuseVoteCount": 0,
+			"replyCount": 2
+		},
+		"lastActivity": {
+			"activityAt": 1605067748,
+			"activityAuthor": {
+				"guid": "4T3BNZ5LVCTELG6DVIJJ7ZDO44",
+				"userType": "YAHOO_USER",
+				"nickname": "Ddot",
+				"image": {
+					"url": "https://s.yimg.com/gq/1807/29332391609_1e44be_o.jpg",
+					"height": 100,
+					"width": 100
+				},
+				"userCategory": "REGULAR_USER"
+			}
+		},
+		"userReaction": {
+			"guid": "W74M2LI4QCT7YMOGYW2BHOYZNQ",
+			"voteType": "DOWN",
+			"nickname": "sapphire",
+			"image": {
+				"url": "https://s.yimg.com/gq/1722/38837682003_813e41_o.jpg",
+				"height": 100,
+				"width": 100
+			},
+			"followee": false
+		},
+		"index": "v=1:s=time:t=1605070821:off=5",
+		"replies": [{
+			"contextId": "finmb_24937",
+			"messageId": "888faf91-d394-4acd-95f5-6d0015f5f2d8",
+			"replyId": "5982ac88-3715-49ab-a6ed-7fa951d5b846",
+			"namespace": "yahoo_finance",
+			"meta": {
+				"type": "TEXT",
+				"author": {
+					"guid": "4T3BNZ5LVCTELG6DVIJJ7ZDO44",
+					"userType": "YAHOO_USER",
+					"nickname": "Ddot",
+					"image": {
+						"url": "https://s.yimg.com/gq/1807/29332391609_1e44be_o.jpg",
+						"height": 100,
+						"width": 100
+					},
+					"userCategory": "REGULAR_USER"
+				},
+				"createdAt": 1605067748,
+				"updatedAt": 1605067748,
+				"contextInfo": {},
+				"visibility": "PUBLIC",
+				"locale": {
+					"region": "US",
+					"lang": "en-US"
+				},
+				"mentions": [],
+				"messageEntity": "COMMENT"
+			},
+			"userReaction": {
+				"guid": "GX53OQMXJIV6SR2IJMYVRD7UM4",
+				"voteType": "UP",
+				"nickname": "Seniorio",
+				"image": {
+					"url": "https://s.yimg.com/gq/1722/38837682003_813e41_o.jpg",
+					"height": 100,
+					"width": 100
+				},
+				"followee": false
+			},
+			"details": {
+				"userText": "@buster the laws he breaks everyday. You idiots are the biggest losers on earth"
+			},
+			"tags": [],
+			"userLabels": [],
+			"reactionStats": {
+				"upVoteCount": 1,
+				"downVoteCount": 1,
+				"abuseVoteCount": 0,
+				"replyCount": 0
+			},
+			"index": "v=1:s=time:t=:off=0"
+		}]
+	}, {
+		"contextId": "finmb_24937",
+		"messageId": "92c2c06a-1ec0-44ca-9c20-de2c44882f3e",
+		"namespace": "yahoo_finance",
+		"meta": {
+			"type": "TEXT",
+			"author": {
+				"guid": "IWBJOZPXK7NQV4KWHP2I6R3GOQ",
+				"userType": "YAHOO_USER",
+				"nickname": "SD",
+				"image": {
+					"url": "https://s.yimg.com/gq/1760/40147159006_fc6763_o.jpg",
+					"height": 100,
+					"width": 100
+				},
+				"userCategory": "REGULAR_USER"
+			},
+			"createdAt": 1605066282,
+			"updatedAt": 1605066282,
+			"contextInfo": {},
+			"visibility": "PUBLIC",
+			"locale": {
+				"region": "US",
+				"lang": "en-US"
+			},
+			"mentions": [],
+			"messageEntity": "COMMENT"
+		},
+		"details": {
+			"userText": "What’s going on with AAPL?  Looks like it’s going in circles and not keeping up with market."
+		},
+		"tags": [],
+		"userLabels": [],
+		"reactionStats": {
+			"upVoteCount": 0,
+			"downVoteCount": 2,
+			"abuseVoteCount": 1,
+			"replyCount": 1
+		},
+		"lastActivity": {
+			"activityAt": 1605068478,
+			"activityAuthor": {
+				"guid": "AFXTPOMUMLHZ7YGX7QQS6MS6HQ",
+				"userType": "YAHOO_USER",
+				"nickname": "robert",
+				"image": {
+					"url": "https://s.yimg.com/gq/1802/40147157986_eca1f6_o.jpg",
+					"height": 100,
+					"width": 100
+				},
+				"userCategory": "REGULAR_USER"
+			}
+		},
+		"userReaction": {
+			"guid": "AFXTPOMUMLHZ7YGX7QQS6MS6HQ",
+			"voteType": "DOWN",
+			"nickname": "robert",
+			"image": {
+				"url": "https://s.yimg.com/gq/1802/40147157986_eca1f6_o.jpg",
+				"height": 100,
+				"width": 100
+			},
+			"followee": false
+		},
+		"index": "v=1:s=time:t=1605070821:off=6",
+		"replies": [{
+			"contextId": "finmb_24937",
+			"messageId": "92c2c06a-1ec0-44ca-9c20-de2c44882f3e",
+			"replyId": "cf3ef577-747c-497d-8788-dcf465be77bc",
+			"namespace": "yahoo_finance",
+			"meta": {
+				"type": "TEXT",
+				"author": {
+					"guid": "AFXTPOMUMLHZ7YGX7QQS6MS6HQ",
+					"userType": "YAHOO_USER",
+					"nickname": "robert",
+					"image": {
+						"url": "https://s.yimg.com/gq/1802/40147157986_eca1f6_o.jpg",
+						"height": 100,
+						"width": 100
+					},
+					"userCategory": "REGULAR_USER"
+				},
+				"createdAt": 1605068478,
+				"updatedAt": 1605068478,
+				"contextInfo": {
+					"url": "https://finance.yahoo.com/quote/AAPL/community?p=AAPL",
+					"displayText": "$AAPL conversation"
+				},
+				"visibility": "PUBLIC",
+				"locale": {
+					"region": "US",
+					"lang": "en-US"
+				},
+				"mentions": [],
+				"messageEntity": "COMMENT"
+			},
+			"userReaction": {
+				"guid": "HFTIJK5WXA2JJGHKAHB3KXXAZM",
+				"voteType": "UP",
+				"nickname": "Lori",
+				"image": {
+					"url": "https://s.yimg.com/gq/1819/29332397219_76b363_o.jpg",
+					"height": 100,
+					"width": 100
+				},
+				"followee": false
+			},
+			"details": {
+				"userText": "It outperformed during this selloff"
+			},
+			"tags": [],
+			"userLabels": ["BULLISH"],
+			"reactionStats": {
+				"upVoteCount": 1,
+				"downVoteCount": 0,
+				"abuseVoteCount": 0,
+				"replyCount": 0
+			},
+			"index": "v=1:s=time:t=:off=0"
+		}]
+	}, {
+		"contextId": "finmb_24937",
+		"messageId": "40791540-7118-4c10-b97c-bc2741d835e6",
+		"namespace": "yahoo_finance",
+		"meta": {
+			"type": "TEXT",
+			"author": {
+				"guid": "PNWB3FB2D5GRKVBU6WCX2CDFZM",
+				"userType": "YAHOO_USER",
+				"nickname": "nigel",
+				"image": {
+					"url": "https://s.yimg.com/gq/1795/38837677543_8720c8_o.jpg",
+					"height": 100,
+					"width": 100
+				},
+				"userCategory": "REGULAR_USER"
+			},
+			"createdAt": 1605066063,
+			"updatedAt": 1605066063,
+			"contextInfo": {},
+			"visibility": "PUBLIC",
+			"locale": {
+				"region": "SG",
+				"lang": "en-SG"
+			},
+			"mentions": [],
+			"messageEntity": "COMMENT"
+		},
+		"details": {
+			"userText": "Market is not happy all the money goes into tech sector... and prob up a news that forgotten sector will get better.. I doubt so not for the whole of 2021..."
+		},
+		"tags": [],
+		"userLabels": [],
+		"reactionStats": {
+			"upVoteCount": 0,
+			"downVoteCount": 0,
+			"abuseVoteCount": 2,
+			"replyCount": 0
+		},
+		"lastActivity": {
+			"activityAt": 1605066063,
+			"activityAuthor": {
+				"guid": "PNWB3FB2D5GRKVBU6WCX2CDFZM",
+				"userType": "YAHOO_USER",
+				"nickname": "nigel",
+				"image": {
+					"url": "https://s.yimg.com/gq/1795/38837677543_8720c8_o.jpg",
+					"height": 100,
+					"width": 100
+				},
+				"userCategory": "REGULAR_USER"
+			}
+		},
+		"userReaction": {},
+		"index": "v=1:s=time:t=1605070821:off=7"
+	}, {
+		"contextId": "finmb_24937",
+		"messageId": "e5dcbc96-9f54-45e5-8a79-775fceec8da1",
+		"namespace": "yahoo_finance",
+		"meta": {
+			"type": "TEXT",
+			"author": {
+				"guid": "MONIR5JY42QZ23V5HWFEPVKHMY",
+				"userType": "YAHOO_USER",
+				"nickname": "strong and tough",
+				"image": {
+					"url": "https://s.yimg.com/ag/images/7269ee9e-033f-422a-8582-835d680f87e2_192sq.jpg",
+					"height": 192,
+					"width": 192
+				},
+				"userCategory": "REGULAR_USER"
+			},
+			"createdAt": 1605065576,
+			"updatedAt": 1605065576,
+			"contextInfo": {
+				"url": "https://finance.yahoo.com/quote/AAPL/community?p=AAPL&guce_referrer=aHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS8&guce_referrer_sig=AQAAAEKIEBdbwFdPSecnDz5E_RRrmGuK6B9KlvTwHh9wMLgiVGsm24-SGWdZ7LivEbnk_Dfv3j04F0Vd3vocNp_dJIiJ6ueSiS1QGUzms3-_Gm7MDxmUGzb5yEOHMgnc-P8n0YEa1pXKIc2ry_yGx0BLbccNMpgXCmwgU3JUuNOzgGuG",
+				"displayText": "$AAPL conversation"
+			},
+			"visibility": "PUBLIC",
+			"locale": {
+				"region": "US",
+				"lang": "en-US"
+			},
+			"mentions": [],
+			"messageEntity": "COMMENT"
+		},
+		"details": {
+			"userText": "Have you guys read the reviews on new mac...incredible. I am going to buy one ...need to sell 30 shares tomorrow for money to cover purchase"
+		},
+		"tags": [],
+		"userLabels": ["BULLISH"],
+		"reactionStats": {
+			"upVoteCount": 2,
+			"downVoteCount": 0,
+			"abuseVoteCount": 1,
+			"replyCount": 0
+		},
+		"lastActivity": {
+			"activityAt": 1605065576,
+			"activityAuthor": {
+				"guid": "MONIR5JY42QZ23V5HWFEPVKHMY",
+				"userType": "YAHOO_USER",
+				"nickname": "strong and tough",
+				"image": {
+					"url": "https://s.yimg.com/ag/images/7269ee9e-033f-422a-8582-835d680f87e2_192sq.jpg",
+					"height": 192,
+					"width": 192
+				},
+				"userCategory": "REGULAR_USER"
+			}
+		},
+		"userReaction": {
+			"guid": "TZKFFAJQ2TGMAGZ7CN3ML3ZIJ4",
+			"voteType": "UP",
+			"nickname": "jeff",
+			"image": {
+				"url": "https://s.yimg.com/gq/1829/40147149656_1551d1_o.jpg",
+				"height": 100,
+				"width": 100
+			},
+			"followee": false
+		},
+		"index": "v=1:s=time:t=1605070821:off=8"
+	}, {
+		"contextId": "finmb_24937",
+		"messageId": "5b9a8bff-1f10-4d9d-a6a2-42e87aac37f1",
+		"namespace": "yahoo_finance",
+		"meta": {
+			"type": "TEXT",
+			"author": {
+				"guid": "NGU3DAAIHVPK6K3B7Z323X6IXM",
+				"userType": "YAHOO_USER",
+				"nickname": "ozymandias",
+				"image": {
+					"url": "https://s.yimg.com/gq/1721/38837678613_ebe081_o.jpg",
+					"height": 100,
+					"width": 100
+				},
+				"userCategory": "REGULAR_USER"
+			},
+			"createdAt": 1605065509,
+			"updatedAt": 1605065509,
+			"contextInfo": {
+				"url": "https://finance.yahoo.com/quote/AAPL/community?p=AAPL",
+				"displayText": "$AAPL conversation"
+			},
+			"visibility": "PUBLIC",
+			"locale": {
+				"region": "US",
+				"lang": "en-US"
+			},
+			"mentions": [],
+			"messageEntity": "COMMENT"
+		},
+		"details": {
+			"userText": "All sizzle. No steak."
+		},
+		"tags": [],
+		"userLabels": [],
+		"reactionStats": {
+			"upVoteCount": 2,
+			"downVoteCount": 1,
+			"abuseVoteCount": 2,
+			"replyCount": 0
+		},
+		"lastActivity": {
+			"activityAt": 1605065509,
+			"activityAuthor": {
+				"guid": "NGU3DAAIHVPK6K3B7Z323X6IXM",
+				"userType": "YAHOO_USER",
+				"nickname": "ozymandias",
+				"image": {
+					"url": "https://s.yimg.com/gq/1721/38837678613_ebe081_o.jpg",
+					"height": 100,
+					"width": 100
+				},
+				"userCategory": "REGULAR_USER"
+			}
+		},
+		"userReaction": {
+			"guid": "SGXDPS6X4BK25PUZ4IO6CZ32YE",
+			"voteType": "UP",
+			"nickname": "Vik",
+			"image": {
+				"url": "https://s.yimg.com/gq/1834/38837685183_90ceda_o.jpg",
+				"height": 100,
+				"width": 100
+			},
+			"followee": false
+		},
+		"index": "v=1:s=time:t=1605070821:off=9"
+	}, {
+		"contextId": "finmb_24937",
+		"messageId": "a466de01-65cf-499a-8d02-d133ae6b8e3a",
+		"namespace": "yahoo_finance",
+		"meta": {
+			"type": "TEXT",
+			"author": {
+				"guid": "4ZJYJIOURNYPDOUPMUHRS5SRI4",
+				"userType": "YAHOO_USER",
+				"nickname": "Tony",
+				"image": {
+					"url": "https://s.yimg.com/gq/1746/29332403839_af81b0_o.jpg",
+					"height": 100,
+					"width": 100
+				},
+				"userCategory": "REGULAR_USER"
+			},
+			"createdAt": 1605065334,
+			"updatedAt": 1605065334,
+			"contextInfo": {},
+			"visibility": "PUBLIC",
+			"locale": {
+				"region": "US",
+				"lang": "en-US"
+			},
+			"mentions": [],
+			"messageEntity": "COMMENT"
+		},
+		"details": {
+			"userText": "I expect the Death Toll from Covid to start dropping as soon as Joe Biden takes office. There are 240,000 deaths currently. I think Biden can get that down to under 100,000 in his first year......with Dr. Fouci’s help. Joe will listen to the scientists."
+		},
+		"tags": [],
+		"userLabels": [],
+		"reactionStats": {
+			"upVoteCount": 5,
+			"downVoteCount": 8,
+			"abuseVoteCount": 2,
+			"replyCount": 4
+		},
+		"lastActivity": {
+			"activityAt": 1605070462,
+			"activityAuthor": {
+				"guid": "YWZ5BQATFMMIISTEDNM4FSLQZE",
+				"userType": "YAHOO_USER",
+				"nickname": "Web",
+				"image": {
+					"url": "https://s.yimg.com/ag/images/4730/25264247168_16347e_192sq.jpg",
+					"height": 192,
+					"width": 192
+				},
+				"userCategory": "REGULAR_USER"
+			}
+		},
+		"userReaction": {
+			"guid": "AMICFLDONEVUITUJSE4FB5K7BI",
+			"voteType": "DOWN",
+			"nickname": "jesse",
+			"image": {
+				"url": "https://s.yimg.com/gq/1829/40147149656_1551d1_o.jpg",
+				"height": 100,
+				"width": 100
+			},
+			"followee": false
+		},
+		"index": "v=1:s=time:t=1605070821:off=10",
+		"replies": [{
+			"contextId": "finmb_24937",
+			"messageId": "a466de01-65cf-499a-8d02-d133ae6b8e3a",
+			"replyId": "1dbc5814-e64f-4251-acab-5dd523a3f94c",
+			"namespace": "yahoo_finance",
+			"meta": {
+				"type": "TEXT",
+				"author": {
+					"guid": "YWZ5BQATFMMIISTEDNM4FSLQZE",
+					"userType": "YAHOO_USER",
+					"nickname": "Web",
+					"image": {
+						"url": "https://s.yimg.com/ag/images/4730/25264247168_16347e_192sq.jpg",
+						"height": 192,
+						"width": 192
+					},
+					"userCategory": "REGULAR_USER"
+				},
+				"createdAt": 1605070462,
+				"updatedAt": 1605070462,
+				"contextInfo": {
+					"url": "https://finance.yahoo.com/quote/AAPL/community?p=AAPL",
+					"displayText": "$AAPL conversation"
+				},
+				"visibility": "PUBLIC",
+				"locale": {
+					"region": "US",
+					"lang": "en-US"
+				},
+				"mentions": [],
+				"messageEntity": "COMMENT"
+			},
+			"userReaction": {},
+			"details": {
+				"userText": "You can't get a death toll to go backwards."
+			},
+			"tags": [],
+			"userLabels": [],
+			"reactionStats": {
+				"upVoteCount": 0,
+				"downVoteCount": 0,
+				"abuseVoteCount": 0,
+				"replyCount": 0
+			},
+			"index": "v=1:s=time:t=:off=0"
+		}]
+	}]
+}
