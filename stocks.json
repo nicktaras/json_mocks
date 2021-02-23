@@ -22,5 +22,53 @@
       "image": "",
       "sentimentScore": 0.5,
       "trend": -1
+    },
+    {
+      "id": 1,
+      "name": "BRN",
+      "price": 0.3,
+      "image": "",
+      "sentimentScore": 0.5,
+      "trend": 0
+    },
+    {
+      "id": 2,
+      "name": "DOU",
+      "price": 2.34,
+      "image": "",
+      "sentimentScore": 0.5,
+      "trend": 1
+    },
+    {
+      "id": 3,
+      "name": "ZIP",
+      "price": 6.9,
+      "image": "",
+      "sentimentScore": 0.5,
+      "trend": -1
+    },
+    {
+      "id": 1,
+      "name": "BRN",
+      "price": 0.3,
+      "image": "",
+      "sentimentScore": 0.5,
+      "trend": 0
+    },
+    {
+      "id": 2,
+      "name": "DOU",
+      "price": 2.34,
+      "image": "",
+      "sentimentScore": 0.5,
+      "trend": 1
+    },
+    {
+      "id": 3,
+      "name": "ZIP",
+      "price": 6.9,
+      "image": "",
+      "sentimentScore": 0.5,
+      "trend": -1
     }
   ]
