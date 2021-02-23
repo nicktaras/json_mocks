@@ -24,7 +24,7 @@
       "trend": -1
     },
     {
-      "id": 1,
+      "id": 4,
       "name": "BRN",
       "price": 0.3,
       "image": "",
@@ -32,7 +32,7 @@
       "trend": 0
     },
     {
-      "id": 2,
+      "id": 5,
       "name": "DOU",
       "price": 2.34,
       "image": "",
@@ -40,7 +40,7 @@
       "trend": 1
     },
     {
-      "id": 3,
+      "id": 6,
       "name": "ZIP",
       "price": 6.9,
       "image": "",
@@ -48,7 +48,7 @@
       "trend": -1
     },
     {
-      "id": 1,
+      "id": 7,
       "name": "BRN",
       "price": 0.3,
       "image": "",
@@ -56,7 +56,7 @@
       "trend": 0
     },
     {
-      "id": 2,
+      "id": 8,
       "name": "DOU",
       "price": 2.34,
       "image": "",
@@ -64,7 +64,7 @@
       "trend": 1
     },
     {
-      "id": 3,
+      "id": 9,
       "name": "ZIP",
       "price": 6.9,
       "image": "",
