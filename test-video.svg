@@ -1,9 +1,8 @@
 <svg>
   <foreignObject x="0" y="0" width="620" height="1040">
-    
-  <video controls="false">
+  <video>
     <source src="https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+    </source>
   </video>
   </foreignObject>
 </svg>
