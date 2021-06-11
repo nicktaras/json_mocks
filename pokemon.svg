@@ -1,7 +1,6 @@
 <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <script>console.log('hello');</script>
   <style>
-    <![CDATA[
     .card {
       width: 320px;
       height: 446px;
@@ -182,7 +181,6 @@
       position: relative;
       perspective: 1000px;
     }
-  ]]>
   </style>
   <!-- Common use case: embed HTML text into SVG -->
   <foreignObject x="0" y="0" width="180" height="280">
@@ -209,7 +207,6 @@
   </foreignObject>
   <script xlink:href="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
   <script type="text/javascript">
-    <![CDATA[
       var $cards = $(".card");
       var $style = $(".hover");
       $cards.on("mousemove", function(e) {
@@ -228,6 +225,5 @@
       }).on("mouseout", function() {
         $cards.removeClass("active");
       });
-    ]]>
   </script>
 </svg>
